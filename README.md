@@ -3,7 +3,7 @@
 
 ### Rate
 https://fast.com/
-Brug ca. halvdelen af faktisk mbps 
+— Brug ca. halvdelen af faktisk mbps 
 
 * 0.5 Mbps – rate 62500
 * 1.0 Mbps – rate 125000
