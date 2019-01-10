@@ -18,6 +18,6 @@ https://fast.com/
 * 6.2 Mbps – rate 786432 (Max)
 
 
-Cl_interp 0 // Altid 0
-Cl_interp_ratio 1 // Hvis der ikke er packet loss ellers gå op til 2 eller 3
-Cl_interpolate 1 // altid 1
+* Cl_interp 0 // Altid 0
+* Cl_interp_ratio 1 // Hvis der ikke er packet loss ellers gå op til 2 eller 3
+* Cl_interpolate 1 // Altid 1
