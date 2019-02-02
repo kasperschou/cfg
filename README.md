@@ -1,7 +1,7 @@
 # cs-go-cfg
 
 ### Launch options
-"-novid -console + exec ks"
+"-novid -console +exec ks.cfg"
 
 ### Rate
 https://fast.com/
