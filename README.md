@@ -1,7 +1,7 @@
 # cs-go-cfg
 
 ### Launch options
-"-novid -console"
+"-novid -console -D3D9EX"
 
 ### Rate
 https://fast.com/
