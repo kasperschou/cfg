@@ -1,4 +1,4 @@
-# cs-go-cfg
+# .cfg for CS:GO
 
 ### Launch options
 "-novid -console -D3D9EX"
