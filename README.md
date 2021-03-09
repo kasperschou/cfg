@@ -1,7 +1,7 @@
 # .cfg for CS:GO
 
 ### Launch options
-"-novid -console -D3D9EX -tickrate 128 -high"
+"-novid -console -D3D9EX -tickrate 128 -high +exec ks.cfg"
 
 ### Rate
 https://fast.com/
